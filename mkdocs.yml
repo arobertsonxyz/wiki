@@ -1,5 +1,6 @@
 site_name: arobertson
 theme:
+  logo: assets/logo.png
   name: material
   palette: 
     
